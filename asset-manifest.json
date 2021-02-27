@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AdityaTripathy78/netflix-clone-youtube.git/static/css/main.c3b1e847.chunk.css",
+    "main.js": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/main.2e7f4a14.chunk.js",
+    "main.js.map": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/main.2e7f4a14.chunk.js.map",
+    "runtime-main.js": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/runtime-main.ec191735.js",
+    "runtime-main.js.map": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/runtime-main.ec191735.js.map",
+    "static/js/2.9b1854f7.chunk.js": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/2.9b1854f7.chunk.js",
+    "static/js/2.9b1854f7.chunk.js.map": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/2.9b1854f7.chunk.js.map",
+    "index.html": "/AdityaTripathy78/netflix-clone-youtube.git/index.html",
+    "static/css/main.c3b1e847.chunk.css.map": "/AdityaTripathy78/netflix-clone-youtube.git/static/css/main.c3b1e847.chunk.css.map",
+    "static/js/2.9b1854f7.chunk.js.LICENSE.txt": "/AdityaTripathy78/netflix-clone-youtube.git/static/js/2.9b1854f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec191735.js",
+    "static/js/2.9b1854f7.chunk.js",
+    "static/css/main.c3b1e847.chunk.css",
+    "static/js/main.2e7f4a14.chunk.js"
+  ]
+}
